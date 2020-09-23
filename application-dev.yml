@@ -1,4 +1,4 @@
 gateway:
   request:
-    maxNumber: 6
+    maxNumber: 5
     time: 1
